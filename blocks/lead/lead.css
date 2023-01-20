@@ -1,0 +1,38 @@
+@import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__image/lead__image.css);
+@import url(./__caption/lead__caption.css);
+.lead {
+    max-width: 984px;
+    width: 76.875%;
+    margin: 0 auto;
+    margin-bottom: 92px;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead {
+        max-width: 928px;
+        width: 90.625%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead {
+        max-width: 768px;
+        width: 100%;
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .lead {
+        max-width: 425px;
+        margin-bottom: 64px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .lead {
+        max-width: 320px;
+    }
+}

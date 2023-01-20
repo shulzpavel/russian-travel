@@ -1,0 +1,17 @@
+.place__url {
+    font-family: 'Inter', Arial, sans-serif;
+    font-size: 1.125em;
+    line-height: 122%;
+    color: #FFFFFF;
+}
+
+.place__url:hover {
+    opacity: .5;
+    transition: .1s ease-out;
+}
+
+@media screen and (max-width: 425px) {
+    .place__website {
+        display: none;
+    }
+}

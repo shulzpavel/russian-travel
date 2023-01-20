@@ -1,6 +1,6 @@
 # Проект 3: Путешествие по России
 
-[Сслыка на проект](https://bmstustudent.github.io/russian-travel/)
+[Сслыка на проект](https://shulzpavel.github.io/russian-travel//)
 
 ## Макет предоставлен Яндекс.Практикум
 [sprint-3](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile)
